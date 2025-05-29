@@ -19,7 +19,7 @@ I'm always open to connecting with fellow developers and recruiters!
 When I'm not coding, you'll probably find me:
 - Playing games 🎮
 - Listening to music 🎵
-- Watching anime 🍿
+- Anime and Manga 🍿
 
 ---
 
