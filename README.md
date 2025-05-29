@@ -7,15 +7,6 @@ I'm a passionate **backend developer** specializing in building robust APIs and 
 - **Focus:** Backend development, RESTful APIs, system design
 - **Other Interests:** Exploring new backend technologies and best practices
 
-## 🌟 Featured Project
-
-### [Tour Booking System](https://github.com/Toyinhor/tour_booking)
-A comprehensive backend for managing tour bookings, built with Spring Boot.  
-Features include:
-- User authentication & management
-- Tour package CRUD operations
-- Secure RESTful API design
-
 ## 📫 Get in Touch
 
 - 📧 Email: [tiendungla210@gmail.com](mailto:tiendungla210@gmail.com)
