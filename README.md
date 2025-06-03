@@ -7,7 +7,6 @@ I'm a passionate **backend developer** specializing in building robust APIs and 
 - **Focus:** Backend development, RESTful APIs, system design
 - **Other Interests:** Exploring new backend technologies and best practices
 
-# 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
