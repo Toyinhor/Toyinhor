@@ -16,8 +16,8 @@ I'm a passionate **backend developer** specializing in building robust APIs and 
 
 ## Get in Touch
 
- 📧 Email: [tiendungla210@gmail.com](mailto:tiendungla210@gmail.com)
- 🌐 Facebook: [la.tien.dung.845579](https://www.facebook.com/la.tien.dung.845579/)
+ - 📧 Email: [tiendungla210@gmail.com](mailto:tiendungla210@gmail.com)
+ - 🌐 Facebook: [la.tien.dung.845579](https://www.facebook.com/la.tien.dung.845579/)
 
 I'm always open to connecting with fellow developers and recruiters!
 
