@@ -21,13 +21,4 @@ I'm a passionate **backend developer** specializing in building robust APIs and 
 
 I'm always open to connecting with fellow developers and recruiters!
 
-##  Hobbies & Fun Facts
-
-When I'm not coding, you'll probably find me:
- - Playing games 
- - Listening to music 
- - Anime and Manga 
-
----
-
 Thanks for stopping by! If you like what you see, feel free to connect or check out my projects.
